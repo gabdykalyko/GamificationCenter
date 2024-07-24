@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f294cac.css",
+    "main.js": "/static/js/main.c8fdbd80.js",
+    "static/js/453.ce071bec.chunk.js": "/static/js/453.ce071bec.chunk.js",
+    "static/media/map-bg.png": "/static/media/map-bg.1182cada4e884790a41b.png",
+    "static/media/headphones.png": "/static/media/headphones.07b4ad04fb0b95bfbe07.png",
+    "index.html": "/index.html",
+    "main.1f294cac.css.map": "/static/css/main.1f294cac.css.map",
+    "main.c8fdbd80.js.map": "/static/js/main.c8fdbd80.js.map",
+    "453.ce071bec.chunk.js.map": "/static/js/453.ce071bec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f294cac.css",
+    "static/js/main.c8fdbd80.js"
+  ]
+}
